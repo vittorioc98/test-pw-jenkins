@@ -1,0 +1,22 @@
+{
+  "name": "test-pw-jenkins",
+  "version": "1.0.0",
+  "description": "prova 4",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vittorioc98/test-pw-jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vittorioc98/test-pw-jenkins/issues"
+  },
+  "homepage": "https://github.com/vittorioc98/test-pw-jenkins#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.5"
+  }
+}
